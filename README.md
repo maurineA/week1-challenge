@@ -1,28 +1,20 @@
-# Net Salary Calculator
+# Student Grade Generator
 
-Javascript Console Application That Calculates the Net Salary, OCTOBER 08/2023
+Javascript Console Application That Generates Student Grades, OCTOBER 08/2023
 
 By Maurine Wambui
 
 # Description
 
-This is Javascript Console Application that allows an individual’s to calculate the Net Salary by getting the inputs of basic salary and benefits. Also the user is able to calculate the payee (i.e. Tax), NHIF Deductions, NSSF Deductions, gross salary, and net salary. 
+This is Javascript Console Application that allow the user to enter the students marks and student grades are genetated in this format  A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40. For example 13 will output an "E".
 
 # How to Use
 
 <ul>
-<li>Use node index.js to input and review the results, then enter.</li>
-<li>A "Enter the basic salary" popup will display.</li>
-<li>Input the basic salary, For example 30000, then enter.</li>
-<li>A "Enter the benefits" popup will display.</li>
-<li>Input the benefits if there is any, For example 5000, then enter.</li>
-<li>The output will display: 
-<li>Gross Salary</li>
-<li>PAYE</li>
-<li>NHIF Deductions</li>
-<li>NSSF Deductions</li>
-<li>Net Salary</li>
-</li>
+<li>Use node student-grade-generator.js to input and review the results, then enter.</li>
+<li>A "What grade did the student get?" popup will display.</li>
+<li>Input the student's mark, For example 78, then enter.</li>
+<li>The output will be a "B" because 78 is within that range.</li>
 </ul>
 
 
@@ -39,30 +31,40 @@ This is Javascript Console Application allows car's speed as input, calculates t
 # How to Use
 
 <ul>
-<li>Use node index.js to input and review the results, then enter.</li>
+<li>Use node speed-detector.js to input and review the results, then enter.</li>
 <li>A "What is the car speed?" popup will display.</li>
 <li>Input the car's speed, For example 60, then enter.</li>
 <li>The output will be  "Ok" because it is within the required speed but from 71 it will start displaying the demerit points and after the 12th point it will show that the license has expired </li>
 </ul>
 
-# Student Grade Generator
 
-Javascript Console Application That Generates Student Grades, OCTOBER 08/2023
+# Net Salary Calculator
+
+Javascript Console Application That Calculates the Net Salary, OCTOBER 08/2023
 
 By Maurine Wambui
 
 # Description
 
-This is Javascript Console Application that allow the user to enter the students marks and student grades are genetated in this format  A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40. For example 13 will output an "E".
+This is Javascript Console Application that allows an individual’s to calculate the Net Salary by getting the inputs of basic salary and benefits. Also the user is able to calculate the payee (i.e. Tax), NHIF Deductions, NSSF Deductions, gross salary, and net salary. 
 
 # How to Use
 
 <ul>
-<li>Use node index.js to input and review the results, then enter.</li>
-<li>A "What grade did the student get?" popup will display.</li>
-<li>Input the student's mark, For example 78, then enter.</li>
-<li>The output will be a "B" because 78 is within that range.</li>
+<li>Use node net-salary-calculator.js to input and review the results, then enter.</li>
+<li>A "Enter the basic salary" popup will display.</li>
+<li>Input the basic salary, For example 30000, then enter.</li>
+<li>A "Enter the benefits" popup will display.</li>
+<li>Input the benefits if there is any, For example 5000, then enter.</li>
+<li>The output will display: 
+<li>Gross Salary</li>
+<li>PAYE</li>
+<li>NHIF Deductions</li>
+<li>NSSF Deductions</li>
+<li>Net Salary</li>
+</li>
 </ul>
+
 
 
 # Requirements
