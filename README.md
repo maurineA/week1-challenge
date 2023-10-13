@@ -1,3 +1,19 @@
+# Installation Process
+
+<ul>
+<li>Clone this repository using
+
+  git@github.com:maurineA/week1-challenge.git
+or by downloading a ZIP file of the code.</li>
+<li>The repository, if downloaded as a .zip file will need to be extracted to your preferred location.</li>
+<li>Navigate to the project folder on your bash terminal.</li>
+<li>Run the application using
+
+  node net-salary-calculator.js
+  node speed-detector.js
+  node student-grade-generator.js</li>
+</ul>
+
 # Student Grade Generator
 
 Javascript Console Application That Generates Student Grades, OCTOBER 08/2023
@@ -74,21 +90,6 @@ This is Javascript Console Application that allows an individual’s to calculat
 <li>Access to the internet.</li>
 </ul>
 
-# Installation Process
-
-<ul>
-<li>Clone this repository using
-
-  git@github.com:maurineA/week1-challenge.git
-or by downloading a ZIP file of the code.</li>
-<li>The repository, if downloaded as a .zip file will need to be extracted to your preferred location.</li>
-<li>Navigate to the project folder on your bash terminal.</li>
-<li>Run the application using
-
-  node net-salary-calculator.js
-  node speed-detector.js
-  node student-grade-generator.js</li>
-</ul>
 
   # Technologies Used
 <ul>
